@@ -9,11 +9,7 @@ It also demonstrates how to set up a **virtual environment** and use **Git** for
 - Git version control integration  
 - Ready-to-use template for AI/ML projects  
 - Support for adding datasets, training scripts, and Jupyter notebooks  
-## Setup Instructions
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/New_project.git
-cd New_project
-### 2. Result
+
+## Result
 ![alt text](<Screenshot 2025-08-22 140715.png>)
 ![alt text](image.png)
