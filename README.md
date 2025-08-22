@@ -14,3 +14,6 @@ It also demonstrates how to set up a **virtual environment** and use **Git** for
 ```bash
 git clone https://github.com/your-username/New_project.git
 cd New_project
+### 2. Result
+![alt text](<Screenshot 2025-08-22 140715.png>)
+![alt text](image.png)
